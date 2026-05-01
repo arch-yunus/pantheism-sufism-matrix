@@ -1,32 +1,30 @@
-# 04 - Spinoza (Tüz) vs. İbn Arabi (Zat)
+# 04 - Spinoza (Tüz) vs. Şeyh-ül Ekber (Zat)
 
-Bu bölüm, Panteizm'in en büyük temsilcisi Benedict de Spinoza ile Vahdet-i Vücud'un kuramcısı Muhyiddin İbn Arabi'nin temel kavramlarını karşı karşıya getirir.
+Bu bölüm, Panteizm'in en büyük temsilcisi Benedict de Spinoza ile Vahdet-i Vücud'un piri Muhyiddin İbn Arabi Hazretleri'nin (K.S.) temel kavramlarını karşı karşıya getirir. Bir yanda aklın sınırlarını zorlayan bir filozof, diğer yanda ise kalbin ve keşfin ufuklarını açan bir arif yer alır.
 
 ## 1. Spinoza'nın "Substantia"sı (Tüz)
 Spinoza için sadece tek bir tüz vardır: **Deus sive Natura** (Tanrı veya Doğa).
-*   **Özellikleri:** Sonsuzdur, bölünemez, kendinden var olur.
-*   **İlişki:** Evrendeki her şey (insanlar, yıldızlar, fikirler), bu tüzün birer "mod"udur (tavır).
-*   **Sonuç:** Tanrı, tüzün kendisidir. Tüzün dışı yoktur.
+*   **Anlayış:** Tanrı doğadır, doğa da Tanrı'dır. Allah'ı doğaya mahkum eden, aşkınlığı reddeden bir sistemdir.
+*   **İlişki:** Her şey bu tüzün geçici birer "tavrı"dır.
 
-## 2. İbn Arabi'nin "Zat"ı (Mutlak Varlık)
-İbn Arabi için de hakiki varlık tektir ama bu varlık (Zat) ile evren arasındaki ilişki hiyerarşiktir.
-*   **Özellikleri:** Münezzzeh (aşkın), idrak edilemez, hiçbir şeye muhtaç değil (Samed).
-*   **İlişki:** Evren, Zat'ın isim ve sıfatlarının birer tecellisidir (görünümüdür).
-*   **Sonuç:** Tanrı, evrenin toplamından fazladır. Evren, Tanrı'nın "bilinen" yüzüdür; ama "gizli hazine" (Kenz-i Mahfi) olan Zat, evrene sığmaz.
+## 2. Şeyh-ül Ekber'in "Zat"ı (Vücud-ı Mutlak)
+İbn Arabi Hazretleri için de hakiki varlık tektir ama bu varlık (Zat) ile kainat arasındaki ilişki tecelli ve edep üzerinedir.
+*   **Tenzih:** Allah (C.C.), Zat'ı itibariyle hiçbir şeye muhtaç değildir (Samed) ve mahlukata benzemekten münezzehtir.
+*   **Tecelli:** Kainat, Allah'ın "Gizli bir hazineydim, bilinmeyi istedim" (Kenz-i Mahfi) sırrınca, isim ve sıfatlarının görünür hale gelmesidir. 
+*   **Fark:** Allah, kainatın toplamından ibaret değildir; kainat O'nun nurunun bir gölgesidir.
 
-## 3. Karşılaştırmalı Kavram Haritası
-
+## 3. Manevi ve İlmi Kavram Haritası
 | Kavram | Spinoza (Pantheism) | İbn Arabi (Vahdet-i Vücud) |
 | :--- | :--- | :--- |
-| **Birlik Türü** | Maddi ve Yapısal Birlik | Nurani ve Mertebeli Birlik |
-| **Kötülük Sorunu** | Kötülük yoktur, sadece perspektif hatasıdır. | Kötülük, varlığın (ışığın) yokluğu veya eksikliğidir. |
-| **Özgürlük** | Zorunluluğu anlamak özgürlüktür. | Tanrı'ya kul olmak (kendi yokluğunu anlamak) özgürlüktür. |
-| **Tanrı'nın Doğası** | Geometrik, Soğuk, Yasalara Dayalı | Aşk, Tecelli ve Bilgi Odaklı |
+| **Birlik** | Maddi ve Yapısal Birlik | Nurani ve Mertebeli Birlik (Tevhid) |
+| **Kötülük** | Sadece bir perspektif hatası | Hayrın ve nurun eksikliği hali |
+| **Hürriyet** | Zorunluluğu anlamak | Allah'a tam teslimiyet ve kulluk |
+| **Yol** | Akli ve Geometrik Çıkarım | Keşf, Zevk ve Manevi Mücahede |
 
-## 4. Kritik Sonuç: Panteizm mi, Panenteizm mi?
-Akademik çevrelerde Vahdet-i Vücud genellikle "Panenteizm" (Her şey Tanrı'dadır) olarak sınıflandırılır. Panteizm "Her şey Tanrı'dır" derken, Vahdet-i Vücud "Her şey Tanrı'nın bir yansımasıdır ama Tanrı her şeyin ötesindedir" der. 
+## 4. Netice: Bir Hayal Olarak Kainat
+Akademik çevreler Vahdet-i Vücud'u bazen "Panenteizm" olarak adlandırsa da, İslam irfanı bunu "Tevhid'in hakikati" olarak görür. Spinoza'nın Tanrı'sı "soğuk bir kanun" iken; İbn Arabi Hazretleri'nin işaret ettiği Allah (C.C.), her an bir tecelli ile kuluyla beraber olan, Seven ve Sevilen'dir (Vedud).
 
-Bu fark, bir ressamın tablosu ile ressamın kendisi arasındaki fark gibidir. Panteizmde ressam tablonun kendisidir. Vahdet-i Vücud'da ise tablo ressamın zihninden ve fırçasından çıkmıştır, ressamı yansıtır ama ressam tabloya hapsedilemez.
+Panteizmde ressam tablonun kendisidir ve tabloda kaybolmuştur. Vahdet-i Vücud'da ise kainat Allah'ın sanatı ve ayinesidir; sanatçı eserinde tecelli eder ama eserine hapsedilemez.
 
 ---
 

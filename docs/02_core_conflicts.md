@@ -1,31 +1,32 @@
-# 02 - Temel Çatışmalar (Core Conflicts)
+# 02 - Temel Çatışmalar (Ontolojik Sınır Hattı)
 
-Panteizm ve Vahdet-i Vücud arasındaki en keskin ayrım noktaları, Tanrı'nın evrene olan "mesafesi" ve "irade" kavramı etrafında toplanır. Bu bölüm, iki sistemin neden birbirine indirgenemeyeceğini açıklar.
+Panteizm ve Vahdet-i Vücud arasındaki en keskin ayrım noktaları, Allah'ın (C.C.) kainata olan "mesafesi" (Tenzih) ve "İlahi İrade" kavramı etrafında toplanır. Bu bölüm, iki sistemin neden birbirine karıştırılamayacağını iman ve mantık çerçevesinde açıklar.
 
-## 1. Aşkınlık (Transcendence) Sorunu
+## 1. Tenzih ve Aşkınlık (Transcendence)
 Bu, iki sistem arasındaki "Ontolojik Uçurum"dur.
-*   **Panteizm (Sınırlı Birlik):** Tanrı ve Evren ontolojik olarak eşittir. Tanrı, evrenin dışına taşmaz. Evren yoksa Tanrı da yoktur.
-*   **Vahdet-i Vücud (Sonsuz Birlik):** Tanrı evrende içkindir ama evrenden münezzehtir (Aşkındır). Tanrı'nın "Zat"ı (özü), yaratılmış hiçbir şeye benzemez ve evrene sığmaz. Evren sadece bir "tecelli"dir; Tanrı ise Mutlak Varlık'tır.
+*   **Panteizm (Sınırlı Birlik):** Tanrı ve Evren ontolojik olarak eşittir. Tanrı, evrenin dışına taşmaz. Bu bakış, Tanrı'yı yaratılmış olanla (mahluk) sınırladığı için İslam inancına zıttır.
+*   **Vahdet-i Vücud (Mutlak Tevhid):** Allah (C.C.) evrende isimleriyle tecelli eder (İçkinlik) ama Zat'ı itibariyle evrenden tamamen münezzehtir (Aşkınlık/Tenzih). Allah (C.C.), alemlerden müstağnidir. Kainat yok olsa da O'nun kemalinden bir zerre eksilmez.
 
-## 2. İrade ve Şuur (Will and Consciousness)
-*   **Panteizm:** Evren, kör bir zorunlulukla (blind necessity) işler. Tanrı'nın bir "planı" veya "iradesi" yoktur; o sadece doğa yasalarıdır.
-*   **Vahdet-i Vücud:** Tanrı, "Mürid"dir (İrade sahibidir). Tecelli rastgele değil, bir kast ve gaye (amaç) üzerinedir. Her tecelli bir ilahi hikmete dayanır.
+## 2. İlahi İrade ve Kast (Will)
+*   **Panteizm:** Evren, kör ve mekanik bir zorunlulukla (blind necessity) işler. Tanrı'nın bir "planı" veya "şahsi iradesi" yoktur.
+*   **Vahdet-i Vücud:** Allah (C.C.), **Mürid**'dir (İrade sahibidir). Her tecelli bir rastlantı değil, ilahi bir kast ve hikmet üzerinedir. Allah (C.C.), dilediğini dilediği şekilde yaratır.
 
-## 3. Madde ve Ruhun Statüsü
-*   **Panteizm:** Madde ve Ruh (Düşünce), Tanrı'nın iki farklı sıfatıdır. İkisi de aynı seviyede gerçektir.
-*   **Vahdet-i Vücud:** Madde, kendi başına bir varlığa sahip değildir. O, bir hayal, gölge veya "adem" (yokluk) üzerindeki bir yansımadır. Gerçek olan sadece o yansımayı yapan ışıktır.
+## 3. Varlığın Mahiyeti: Hakiki vs. İzafi
+*   **Panteizm:** Madde, Tanrı'nın bir sıfatı olarak hakikidir.
+*   **Vahdet-i Vücud:** Madde, kendi başına bir varlığa sahip olmayan, Allah'ın nurunun yansıdığı bir gölge veya "hayal"dir. Hakiki olan sadece Allah'tır (C.C.); kainat ise O'nun var etmesiyle kaim olan bir "izafi" varlıktır.
 
-## 4. Yok Oluş (Annihilation) Senaryosu
-*   **Panteizmde:** Madde korunur, sadece form değiştirir. Tanrı maddenin kendisi olduğu için bir "yok oluş" söz konusu değildir.
-*   **Vahdet-i Vücud'da:** "Fena" kavramı mevcuttur. Kişi, kendi izafi (geçici) varlığının yokluğunu fark ederek Mutlak Varlık'ta kaybolur.
+## 4. Beka ve Fena
+*   **Panteizmde:** Madde korunur, form değiştirir. Kişisel bir kurtuluş veya manevi bir yükselişten ziyade doğaya uyum vardır.
+*   **Vahdet-i Vücud'da:** "Fena fillah" (Allah'ta yok olma) kavramı mevcuttur. Kul, kendi benliğinin (nefsinin) aslında bir hiç olduğunu, hakiki varlığın ancak Allah'a (C.C.) ait olduğunu idrak ederek O'na rücu eder.
 
 ---
 
-| Karşılaştırma | Panteizm | Vahdet-i Vücud |
+| Karşılaştırma | Panteizm (Felsefi) | Vahdet-i Vücud (İrfani) |
 | :--- | :--- | :--- |
-| **Denklem** | Tanrı = Evren | Tanrı > Evren |
-| **Karakter** | Natüralistik / Seküler | Metafizik / Teosentrik |
-| **Zorunluluk** | Mekanik | İradi |
+| **Denklem** | Tanrı = Doğa | Allah > Kainat |
+| **Karakter** | Natüralist / Maddi | Teosentrik / Nurani |
+| **İşleyiş** | Mekanik Zorunluluk | İlahi İrade ve Hikmet |
+| **İnanç Statüsü** | Beşeri Felsefe | Tasavvufi Mertebe |
 
 ---
-*Sonraki Bölüm: [03_archetypes_theory.md](file:///g:/Di%C4%9Fer%20bilgisayarlar/Diz%C3%BCst%C3%BC%20Bilgisayar%C4%B1m/github%20repolar%C4%B1m/pantheism-sufism-matrix/docs/03_archetypes_theory.md)*
+*Sonraki Bölüm: [03_archetypes_theory.md](docs/03_archetypes_theory.md)*
