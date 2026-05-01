@@ -134,6 +134,8 @@ pantheism-sufism-matrix/
 │   ├── 05_glossary_of_terms.md    # Teknik Terimler Sözlüğü (Genişletilmiş)
 │   ├── 06_theological_nuances.md  # Panenteizm vs Vahdet-i Vücud
 │   ├── 07_bibliography.md         # Temel Kaynakça ve Okuma Listesi
+│   ├── 08_levels_of_existence.md  # Hazret-i Hams (Varlık Mertebeleri)
+│   ├── 09_visual_comparison.md    # Mermaid Diyagramı (Teknik Kıyas)
 ├── data/
 │   ├── comparative_matrix.csv     # Ham veri ve teknik tablo
 ├── scripts/
@@ -146,8 +148,9 @@ pantheism-sufism-matrix/
 ## 🤝 Katkıda Bulunma (Contributing)
 
 Bu ilmi çalışmaya katkıda bulunmak isterseniz:
-1.  Lütfen **edep ve akademik ciddiyet** çerçevesinde hareket edin.
-2.  Eklemelerinizi kaynak (Ayet, Hadis veya Şarihlerin eserleri) belirterek yapın.
+1.  Lütfen [Katkıda Bulunma Rehberi'ni](CONTRIBUTING.md) okuyun.
+2.  [Davranış Kuralları'na](CODE_OF_CONDUCT.md) riayet ederek edep ve akademik ciddiyet çerçevesinde hareket edin.
+3.  Eklemelerinizi kaynak (Ayet, Hadis veya Şarihlerin eserleri) belirterek yapın.
 3.  Pull Request açarken meseleyi hangi ilmi zemine dayandırdığınızı belirtin.
 
 ## 📜 Lisans (License)

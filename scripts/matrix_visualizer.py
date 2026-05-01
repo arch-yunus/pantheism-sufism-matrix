@@ -27,11 +27,30 @@ def generate_markdown_table(csv_path):
     return md
 
 def generate_mermaid_comparison(csv_path):
-    """Generates a Mermaid pie/bar/radar (hypothetical) or simple text visualization."""
-    # Since Mermaid doesn't have a direct 'matrix comparison' chart, 
-    # we can generate a Mermaid Class Diagram or Entity Relationship to show connections.
-    # For now, let's just stick to a clean Markdown output that can be injected.
-    pass
+    """Generates a Mermaid Class Diagram string for visual comparison."""
+    if not os.path.exists(csv_path):
+        return "Error: CSV file not found."
+    
+    with open(csv_path, mode='r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        data = list(reader)
+    
+    mermaid = "classDiagram\n"
+    mermaid += "    class Pantheism {\n"
+    for row in data:
+        param = row['Parameter'].replace(" ", "_")
+        val = row['Pantheism (Spinozist)'].split("(")[0].strip()
+        mermaid += f"        +{param}: {val}\n"
+    mermaid += "    }\n"
+    
+    mermaid += "    class Sufism {\n"
+    for row in data:
+        param = row['Parameter'].replace(" ", "_")
+        val = row['Vahdet-i Vucud (Sufism)'].split("(")[0].strip()
+        mermaid += f"        +{param}: {val}\n"
+    mermaid += "    }\n"
+    
+    return mermaid
 
 if __name__ == "__main__":
     base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -39,4 +58,7 @@ if __name__ == "__main__":
     
     print("\n--- GENERATED COMPARATIVE MATRIX (MARKDOWN) ---\n")
     print(generate_markdown_table(csv_file))
-    print("\n--- END OF MATRIX ---\n")
+    
+    print("\n--- GENERATED MERMAID DIAGRAM ---\n")
+    print(generate_mermaid_comparison(csv_file))
+    print("\n--- END OF SCRIPT ---\n")
