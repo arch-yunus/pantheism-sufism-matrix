@@ -80,6 +80,9 @@ Vahdet-i Vücud'u Panteizm'den ayıran en büyük teknik baraj **Ayan-ı Sabite*
 | **Maddeye Bakış** | Hakiki ve sonsuz madde | İzafi, geçici ve "hayali" varlık |
 | **Bilgiye Ulaşım** | Sadece Akıl ve Mantık | Akıl + Kalp (Keşf ve Şuhud) |
 | **Özgürlük Anlayışı** | Zorunluluğu kabul | Allah'a tam teslimiyet (Ubudiyet) |
+| **Kötülük Kavramı** | Perspektif hatası / Yararsızlık | Nurun eksikliği (Hayrın azlığı) |
+| **Yaratılış** | Ezeli zorunluluk | Her an yeniden yaratılış (Tecdid-i Halk) |
+| **Nihai Hedef** | Entelektüel Tanrı Sevgisi | Marifetullah ve Vuslat |
 
 ---
 
@@ -128,8 +131,13 @@ pantheism-sufism-matrix/
 │   ├── 02_core_conflicts.md       # Tenzih, İrade ve Yaratılış sırları
 │   ├── 03_archetypes_theory.md    # Ayan-ı Sabite ve İlahi İlim
 │   ├── 04_spinoza_vs_arabi.md     # Spinoza (Tüz) vs. Şeyh-ül Ekber (Zat)
+│   ├── 05_glossary_of_terms.md    # Teknik Terimler Sözlüğü (Genişletilmiş)
+│   ├── 06_theological_nuances.md  # Panenteizm vs Vahdet-i Vücud
+│   ├── 07_bibliography.md         # Temel Kaynakça ve Okuma Listesi
 ├── data/
 │   ├── comparative_matrix.csv     # Ham veri ve teknik tablo
+├── scripts/
+│   ├── matrix_visualizer.py       # Veriyi dökümana işleme aracı
 ├── diagrams/
     ├── pantheism_flow.png         # Panteistik varlık akış diyagramı
     ├── sufism_reflection.png      # Vahdet-i Vücud yansıma (gölge) modeli

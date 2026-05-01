@@ -28,4 +28,4 @@ Panteizmde ressam tablonun kendisidir ve tabloda kaybolmuştur. Vahdet-i Vücud'
 
 ---
 
-*Geri dön: [README.md](file:///g:/Di%C4%9Fer%20bilgisayarlar/Diz%C3%BCst%C3%BC%20Bilgisayar%C4%B1m/github%20repolar%C4%B1m/pantheism-sufism-matrix/README.md)*
+*Sonraki Bölüm: [05_glossary_of_terms.md](docs/05_glossary_of_terms.md)*
