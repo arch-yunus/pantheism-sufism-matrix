@@ -1,3 +1,5 @@
+![FAQ Banner](../diagrams/faq_banner.png)
+
 # 10 - Sıkça Sorulan Sorular ve Yanlış Anlaşılmalar (FAQ)
 
 Vahdet-i Vücud meselesi, İslam düşünce tarihinde en çok tartışılan ve yanlış anlaşılmaya en müsait konulardan biridir. Bu bölüm, hem avam hem de bazı havas katmanlarında oluşan kafa karışıklıklarını gidermeyi hedefler.

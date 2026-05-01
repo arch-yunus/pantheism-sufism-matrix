@@ -37,6 +37,8 @@ Bu çalışmada, hakikat arayışında hem aklın hem de kalbin rehberliği göz
 
 ## 🧠 Sistemlerin Mimari Kıyaslaması
 
+![Sufism Banner](diagrams/sufism_banner.png)
+
 ### İbn Arabi: Katmanlı Varlık (Hazret-i Hams)
 Vahdet-i Vücud'da varlık tek katmanlı değildir. Beş Hazret (Varlık Mertebesi) üzerinden bir hiyerarşi izler:
 1.  **Zat Alemi (Gayb-ı Mutlak):** Allah'ın (C.C.) bilinmezliği.
@@ -44,6 +46,8 @@ Vahdet-i Vücud'da varlık tek katmanlı değildir. Beş Hazret (Varlık Mertebe
 3.  **Melekût:** Ruhlar ve misal alemi.
 4.  **Mülk:** Duyularla algılanan maddi alem.
 5.  **İnsan-ı Kamil:** Tüm bu mertebeleri kendinde toplayan en kapsamlı ayna.
+
+![Pantheism Banner](diagrams/pantheism_banner.png)
 
 ### Spinoza: Tek Tüz (Monist Yapı)
 Spinoza'nın sistemi ise daha yatay ve tek katmanlıdır:
@@ -66,11 +70,16 @@ Spinoza'nın sistemi ise daha yatay ve tek katmanlıdır:
 ---
 
 ## 🔮 Arketipler Teorisi: Ayan-ı Sabite
+
+![Archetypes Banner](diagrams/archetypes_banner.png)
+
 Vahdet-i Vücud'u Panteizm'den ayıran en büyük teknik baraj **Ayan-ı Sabite**'dir. Bunlar, eşyanın henüz yaratılmadan önce Allah'ın ezeli ilminde sabit olan hakikatleridir. Bu katman sayesinde İslam ontolojisi, Panteizm'deki "Allah'ın maddeleşmesi" tehlikesinden kurtulur. Her şey O'nun ilmindeki birer surettir; madde ise bu ilmi suretlerin nur ile dış dünyada görünür hale gelmesidir.
 
 ---
 
 ## 📊 Karşılaştırma Matrisi (Manevi ve İlmi Perspektif)
+
+![Comparison Matrix Banner](diagrams/comparison_matrix_banner.png)
 
 | Parametre | Panteizm (Spinozacı Bakış) | Vahdet-i Vücud (İrfani Bakış) |
 | :--- | :--- | :--- |
@@ -144,6 +153,12 @@ pantheism-sufism-matrix/
 ├── scripts/
 │   ├── matrix_visualizer.py       # Veriyi dökümana işleme aracı
 ├── diagrams/
+    ├── project_banner.png         # Ana proje görseli
+    ├── sufism_banner.png          # Sufizm bölümü görseli
+    ├── pantheism_banner.png       # Panteizm bölümü görseli
+    ├── archetypes_banner.png      # Ayan-ı Sabite görseli
+    ├── comparison_matrix_banner.png # Karşılaştırma matrisi görseli
+    ├── faq_banner.png             # SSS bölümü görseli
     ├── pantheism_flow.png         # Panteistik varlık akış diyagramı
     ├── sufism_reflection.png      # Vahdet-i Vücud yansıma (gölge) modeli
 ```

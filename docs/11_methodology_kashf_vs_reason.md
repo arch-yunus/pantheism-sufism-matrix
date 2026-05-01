@@ -1,3 +1,5 @@
+![Methodology Banner](../diagrams/comparison_matrix_banner.png)
+
 # 11 - Metodoloji: Geometrik Akıl vs. Kalbi Keşf
 
 Spinoza ve İbn Arabi, benzer sonuçlara (Varlığın Birliği) ulaşmış gibi görünseler de, bu sonuçlara giden yolları (metotları) birbirinden tamamen farklıdır. Bu fark, Batı rasyonalizmi ile Doğu irfanı arasındaki temel uçurumu da temsil eder.
