@@ -136,8 +136,11 @@ pantheism-sufism-matrix/
 │   ├── 07_bibliography.md         # Temel Kaynakça ve Okuma Listesi
 │   ├── 08_levels_of_existence.md  # Hazret-i Hams (Varlık Mertebeleri)
 │   ├── 09_visual_comparison.md    # Mermaid Diyagramı (Teknik Kıyas)
+│   ├── 10_faq_misconceptions.md   # Yanlış Anlaşılmalar ve SSS
+│   ├── 11_methodology_kashf_vs_reason.md # Akıl vs. Keşf Metotları
 ├── data/
 │   ├── comparative_matrix.csv     # Ham veri ve teknik tablo
+│   ├── quotes_collection.csv      # Hikmetli sözler veritabanı
 ├── scripts/
 │   ├── matrix_visualizer.py       # Veriyi dökümana işleme aracı
 ├── diagrams/

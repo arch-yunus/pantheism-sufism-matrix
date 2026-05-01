@@ -52,13 +52,35 @@ def generate_mermaid_comparison(csv_path):
     
     return mermaid
 
+import random
+
+def get_random_quote(quotes_path):
+    """Returns a formatted random quote from the CSV."""
+    if not os.path.exists(quotes_path):
+        return "Quotes collection not found."
+    
+    with open(quotes_path, mode='r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        quotes = list(reader)
+    
+    if not quotes:
+        return "No quotes found."
+    
+    q = random.choice(quotes)
+    return f"\n> \"{q['Quote (Original/Translation)']}\"\n> — **{q['Source']}** ({q['Theme']})\n"
+
 if __name__ == "__main__":
     base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     csv_file = os.path.join(base_path, "data", "comparative_matrix.csv")
+    quotes_file = os.path.join(base_path, "data", "quotes_collection.csv")
     
     print("\n--- GENERATED COMPARATIVE MATRIX (MARKDOWN) ---\n")
     print(generate_markdown_table(csv_file))
     
     print("\n--- GENERATED MERMAID DIAGRAM ---\n")
     print(generate_mermaid_comparison(csv_file))
+    
+    print("\n--- RANDOM WISDOM ---\n")
+    print(get_random_quote(quotes_file))
+    
     print("\n--- END OF SCRIPT ---\n")
